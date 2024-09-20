@@ -17,6 +17,8 @@ Here are some of the technologies I work with:
 - **Tools:** Github, Git, Cypress.io
 - **Databases:** MySQL, MongoDB
 
+- ![My Project Screenshot](js.png)
+
 
 ## 📫 Let's Connect!
 
