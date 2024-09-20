@@ -17,10 +17,12 @@ Here are some of the technologies I work with:
 - **Tools:** Github, Git, Cypress.io
 - **Databases:** MySQL, MongoDB
 
-<img src="js.png" alt="My Profile Picture" width="50" height="50" style="border-radius: 10px;">
+<div style="display:flex">
+ <img src="js.png" alt="My Profile Picture" width="50" height="50" style={{borderRadius:"10px"}}>
 <img src="atom.png" alt="My Profile Picture" width="50" height="50" style="border-radius: 10px;">
-<img src="programming.png" alt="My Profile Picture" width="50" height="50" style="border-radius: 10px;">
+<img src="programing.png" alt="My Profile Picture" width="50" height="50" style="border-radius: 10px;">
 <img src="typescript.png" alt="My Profile Picture" width="50" height="50" style="border-radius: 10px;">
+</div>
 
 
 ## 📫 Let's Connect!
