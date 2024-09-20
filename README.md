@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 - **Tools:** Github, Git, Cypress.io
 - **Databases:** MySQL, MongoDB
 
-- ![My Project Screenshot](js.png)
+<img src="js.png" alt="My Profile Picture" width="200" height="200">
 
 
 ## 📫 Let's Connect!
